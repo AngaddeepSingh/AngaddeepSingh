@@ -4,7 +4,7 @@ First-year Mathematics and Computer Science student at the University of Bristol
 
 ## About
 
-I am interested in software engineering, practical applications of AI, and algorithms, including game-playing programs. I programming in C as well as building tools in Python. I am currently working on a minimax-based computer opponent for my Connect Four game.
+I am interested in software engineering, practical applications of AI, and algorithms, including game-playing programs. I program in C, as well as building tools in Python.
 
 ## Current work
 
