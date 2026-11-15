@@ -1,4 +1,4 @@
-# Angaddeep Singh
+# Angaddeep Singh Sahni
 
 First-year Mathematics and Computer Science student at the University of Bristol, seeking a software engineering or AI internship for summer 2027.
 
