@@ -4,7 +4,7 @@ First-year Mathematics and Computer Science student at the University of Bristol
 
 ## About
 
-I am interested in software engineering, practical applications of AI, and algorithms, including game-playing programs. I program in C, as well as building tools in Python.
+I am interested in software engineering, practical applications of AI, and algorithms, including game-playing programs. I program in C and build tools in Python.
 
 ## Current work
 
@@ -18,8 +18,8 @@ I am interested in software engineering, practical applications of AI, and algor
 
 ## Skills
 
-- **Languages:** Python, C, Haskell, Arduino
-- **Tools and libraries:** Git and GitHub, Make, Streamlit, BeautifulSoup, raylib
+- **Languages:** Python, C, Haskell
+- **Tools and libraries:** Git and GitHub, Make, Streamlit, BeautifulSoup, raylib, Arduino
 
 ## Contact
 
